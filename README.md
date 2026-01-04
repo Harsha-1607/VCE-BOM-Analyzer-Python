@@ -35,10 +35,15 @@ Automated analysis of Bill of Materials (BOM) data to drive smarter decisions on
 📁 Structure
 
 VCE-BOM-Analyzer-Python/
+
 ├── input/           Your sample data here
+
 ├── output/          Reports + charts auto-generated here
+
 ├── src/             Clean, modular Python code
+
 ├── README.md        You’re reading it!
+
 └── requirements.txt
 
 > 🔐 Uses anonymized sample data — no proprietary info included.
