@@ -20,7 +20,7 @@ Automated analysis of Bill of Materials (BOM) data to drive smarter decisions on
 
 1. Clone & install:
    bash
-   git clone https://github.com/yourusername/VCE-BOM-Analyzer-Python.git
+   git clone https://github.com/Harsha-1607/VCE-BOM-Analyzer-Python.git
    cd VCE-BOM-Analyzer-Python
    pip install -r requirements.txt
    
@@ -32,7 +32,7 @@ Automated analysis of Bill of Materials (BOM) data to drive smarter decisions on
    
 4. View reports + charts in /output
 
- 📁 Structure
+📁 Structure
 
 VCE-BOM-Analyzer-Python/
 ├── input/           Your sample data here
